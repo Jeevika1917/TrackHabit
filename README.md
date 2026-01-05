@@ -1,5 +1,7 @@
 # TrackHabit
 Simple, elegant habit management. Add, track, and delete with ease.
+
+
 📱 Interactive Live Demo
 
 Experience the Habit Tracker directly in your browser without any installation.
